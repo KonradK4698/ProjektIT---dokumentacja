@@ -1,2 +1,3 @@
 # ProjektIT
- Dokumentacja projektu - Kmak Konrad - aplikacja społecznościowa
+ Dokumentacja projektu - aplikacja społecznościowa
+ Autor: Kmak Konrad
